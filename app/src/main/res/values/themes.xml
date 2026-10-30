@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.PracticalFive" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/municipality_beijing</item>
+        <item name="colorPrimaryVariant">@color/municipality_beijing</item>
+        <item name="colorOnPrimary">@color/color_text_light</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
